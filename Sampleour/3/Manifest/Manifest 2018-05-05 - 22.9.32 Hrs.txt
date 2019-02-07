@@ -1,0 +1,8 @@
+Timestamp : 2018-05-05 - 22.9.32 Hrs
+Source : I:\IDE\Sampleour\5
+Destination/Repo-Path : I:\IDE\Sampleour\3
+command: Checkin I:\IDE\Sampleour\5 I:\IDE\Sampleour\3
+Files created/copied: 
+5944-L7.txt	5's_file.txt	I:\IDE\Sampleour\3\5's_file.txt\5944-L7.txt
+17608-L21.txt	file.txt	I:\IDE\Sampleour\3\file.txt\17608-L21.txt
+141545-L192.txt	Manifest 2018-05-05 - 22.8.11 Hrs.txt	I:\IDE\Sampleour\3\Manifest\Manifest 2018-05-05 - 22.8.11 Hrs.txt\141545-L192.txt

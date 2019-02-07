@@ -1,0 +1,10 @@
+Manifest_5-5-2018_17.43.20_Hrs
+Label:---
+Manifest file creation Date and time: 5-5-2018  17:43:20.574989800
+command: checkin
+sourcePath: I:\IDE\Sample\4
+targetPath: I:\IDE\Sample\2
+
+List of files created is as follows: 
+9420.13.txt	4's file.txt	\4's file.txt\9420.13.txt
+16125.26.txt	File.txt	\File.txt\16125.26.txt

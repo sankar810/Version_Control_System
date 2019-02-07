@@ -1,0 +1,6 @@
+Timestamp : 2018-05-05 - 22.7.2 Hrs
+Source : I:\IDE\Sampleour\1
+Destination/Repo-Path : I:\IDE\Sampleour\3
+command: Create I:\IDE\Sampleour\1 I:\IDE\Sampleour\3
+Files created/copied: 
+11001-L13.txt	file.txt	I:\IDE\Sampleour\3\file.txt\11001-L13.txt

@@ -1,0 +1,5 @@
+Timestamp : 2018-05-05 - 22.7.57 Hrs
+Source : I:\IDE\Sampleour\2
+Destination/Repo-Path : I:\IDE\Sampleour\4
+command: Checkout I:\IDE\Sampleour\2 I:\IDE\Sampleour\4
+Files created/copied: 
